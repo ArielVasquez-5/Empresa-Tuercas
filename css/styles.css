@@ -1,0 +1,11 @@
+.fondo {
+  background: url("../img/02.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fondo .fondo__alto {
+  height: 100vh;
+}
+
+
